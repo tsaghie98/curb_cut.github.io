@@ -1,0 +1,85 @@
+
+
+h1{
+	color: black;
+	text-align: center;
+	font-size: 70px;
+	font-family: palatino;
+	background-color: powderblue;
+	margin-top: 1px;
+	margin-bottom: 1px;
+}
+h2{
+	color: black;
+	margin:20px;
+	font-size: 20px;
+	font-family: palatino;
+	background-color: powderblue;
+	margin-top: 1px;
+	margin-bottom: 1px;
+}
+h3{
+	color: black;
+	margin:20px;
+	font-size: 20px;
+	font-family: palatino;
+	background-color: powderblue;
+	margin-top: 1px;
+}
+
+body{background-color: powderblue;
+	margin: 20px;
+	font-family: palatino;
+}
+p.first-p {
+	color: black;
+	margin: 20px;
+}
+p.second-p {
+	color: black;
+	margin: 20px;
+	margin-bottom: 1px;
+}
+p.third-p {
+	color: black;
+	margin: 20px;
+	margin-top: 1px;
+}
+p.fourth-p {
+	color: black;
+	margin: 20px;
+}
+p.fifth-p {
+	color: black;
+	margin: 20px;
+}
+p.sixth-p {
+	color: black;
+	margin: 20px;
+}
+p.seventh-p {
+	color: black;
+	margin: 20px;
+	margin-bottom: 50px;
+}
+p.map-p {
+	color: black;
+	margin: 20px;
+	text-align: center;
+	margin-top: 1px;
+	margin-bottom: 1px;
+}
+p.curb_cut-p {
+	color: black;
+	margin: 20px;
+	text-align: center;
+	margin-bottom: 1px;
+}
+p.caption-p {
+	color: black;
+	margin: 20px;
+	font-size: 15px;
+	text-align: center;
+	margin-top: 1px;
+}
+
